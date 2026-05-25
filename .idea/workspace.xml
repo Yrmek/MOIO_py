@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2aa7256-83b2-4fc4-a318-3f6569766422" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MOIO_py.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MOIO_py.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buildings(1).graphml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organizations.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questionnaire.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +30,12 @@
     &quot;assignee&quot;: &quot;Yrmek&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Yrmek/MOIO_py.git&quot;,
-    &quot;accountId&quot;: &quot;6bcb6992-1c8e-42fd-a4c6-c2f5d940c9d6&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Yrmek/MOIO_py.git",
+    "accountId": "f48640c2-3d43-495d-a257-88f1b47d714c"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -51,13 +51,20 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/hryv/PycharmProjects/OODLAB4-FINGERPRINTS-"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/kartohamaster/PycharmProjects/MOIO_py",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kartohamaster\PycharmProjects\MOIO_py" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+        <option value="bundled-python-sdk-0978a7220b69-9867c7d4c0a4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28294.336" />
       </set>
     </attachedChunks>
   </component>
