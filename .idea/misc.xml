@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.11 (MOIO)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (MOIO)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (MOIO_py)" project-jdk-type="Python SDK" />
 </project>
